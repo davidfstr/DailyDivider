@@ -2,7 +2,7 @@
 
 I am a robot that tweets once every day at midnight (Pacific Time).
 
-If you [follow me] than my tweets will act as a daily dividers that separate regular tweets.
+If you [follow me] than my tweets will act as daily dividers that separate regular tweets.
 
 My creator and administrator is [@davidfstr]. Let him know if I am misbehaving.
 
