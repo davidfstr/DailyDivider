@@ -1,0 +1,9 @@
+# OS X
+.DS_Store
+
+# Python
+*.pyc
+*.pyo
+
+# Credentials
+twitter_api_keys.py
